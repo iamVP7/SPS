@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StonePaperScissor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nulls">" "</string>
+    <string name="rules">Rules And Description</string>
+    <string name="fullrule">        Rock-paper-scissors is a hand game usually played by two people
+       , 
+        where players simultaneously form one of three shapes with an
+         outstretched hand. "\n\n"
+         The "rock" beats scissors,"\n"
+          the "scissors" beat paper,"\n"
+          the "paper" beats rock;"\n"
+          if both players throw the same shape, the game is tied.</string>
+    <string name="enemy">         Note:Here you will be battling with World biggest Smartphone Android!!!</string>
+    <string name="stone">This is Stone born to "\n" 
+       beat Scissor</string>
+    <string name="scissor">This is Scissor born "\n" to cut Paper</string>
+    <string name="paper">This is Paper born "\n" to cover Stone</string>
+    <string name="you">Your Score</string>
+    <string name="comp">Computer Score</string>
+    <string name="zero">0</string>
+    <string name="w">Win +2</string>
+    <string name="l">Lose -1</string>
+    <string name="winner">Score 15 to win</string>
+    <string name="title_activity_results">SPS</string>
+    <string name="share">Share</string>
+    <string name="ex">Exit</string>
+    <string name="title_activity_learn">Learn</string>
+    <string name="title_activity_play">Play</string>
+    <string name="title_activity_winner">Winner</string>
+    <string name="title_activity_loser">Loser</string>
+
+</resources>
